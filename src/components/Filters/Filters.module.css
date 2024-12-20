@@ -1,0 +1,28 @@
+.filter {
+  display: flex;
+  flex-direction: row;
+}
+.colorIn {
+  margin-top: 1em;
+}
+.priceIn {
+  margin: 0.7em;
+}
+input[type='text'] {
+  padding: 0.5em;
+  margin: 0.5em 0;
+  width: 100%;
+  border: 1px solid #1f1f1f;
+  border-radius: 0;
+}
+.name {
+  width: 8.3em;
+  height: 1.7em;
+  text-align: center;
+  border: 1px solid #1f1f1f;
+}
+
+input[type='number'] {
+  height: 1em;
+  width: 4em;
+}
